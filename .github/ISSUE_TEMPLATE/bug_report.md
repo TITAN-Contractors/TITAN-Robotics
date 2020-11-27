@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Help us track down squishy bugs!
 title: 'Bug - '
 labels: bug
 assignees: TheRadiumDude

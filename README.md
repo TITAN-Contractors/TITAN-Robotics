@@ -12,7 +12,7 @@
   </a>
     <img src="https://img.shields.io/discord/607930707138052108?label=DISCORD&style=for-the-badge" alt="TITAN Discord">
   </a>
-    <img src="https://img.shields.io/github/v/release/TITAN-Contractors/TITAN-Robotics?color=yellow&style=for-the-badge" alt="TITAN Releases">
+    <img src="https://img.shields.io/github/v/release/TITAN-Contractors/TITAN-Robotics?color=magenta&include_prereleases&style=for-the-badge" alt="TITAN Releases">
   </a>
 </p>
 

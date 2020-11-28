@@ -17,4 +17,7 @@
 </p>
 
 # TITAN Robotics
-Repository source for our bot code.
+Repository source for TITAN Zulu, our custom, self-maintained Discord bot.
+
+**Features:**
+- No major features yet. However, it does say *"Hello"*!

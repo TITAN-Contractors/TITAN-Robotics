@@ -35,7 +35,7 @@ public class Program
 	{
 		string command = "";
 		//Filtering messages
-		if (!message.Content.StartsWith("!")) //Prefix
+		if (!message.Content.StartsWith("!$")) //Prefix
 			return Task.CompletedTask;
 
 		if (message.Author.IsBot) //Ignore Bot messages
@@ -47,7 +47,7 @@ public class Program
 			lengthOfCommand = message.Content.Length;
 
 
-		command = message.Content.Substring(1, lengthOfCommand - 1);
+		command = message.Content.Substring(2, lengthOfCommand - 2).ToLower();
 		//Commands from here
 		if (command.Equals("Hello"))
 			message.Channel.SendMessageAsync("Hello!");

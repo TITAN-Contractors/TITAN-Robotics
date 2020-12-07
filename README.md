@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/github/v/release/TITAN-Contractors/TITAN-Robotics?color=magenta&include_prereleases&style=for-the-badge" alt="TITAN Releases">
+ </a>
+</p>
+
+<p align="center">
    <a href="https://github.com/TITAN-Contractors/TITAN-Robotics/issues">
     <img src="https://img.shields.io/github/issues/TITAN-Contractors/TITAN-Robotics?color=orange&style=for-the-badge" alt="TITAN Robotics Issues">
   </a>
@@ -12,12 +17,10 @@
   </a>
     <img src="https://img.shields.io/discord/607930707138052108?label=DISCORD&style=for-the-badge" alt="TITAN Discord">
   </a>
-    <img src="https://img.shields.io/github/v/release/TITAN-Contractors/TITAN-Robotics?color=magenta&include_prereleases&style=for-the-badge" alt="TITAN Releases">
-  </a>
 </p>
 
 # TITAN Robotics
 Repository source for TITAN Zulu, our custom, self-maintained Discord bot.
 
 **Features:**
-- No major features yet. However, it does say *"Hello"*!
+- No major features yet. 

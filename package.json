@@ -1,0 +1,27 @@
+{
+  "name": "zulubot",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"https://cdn.discordapp.com/attachments/755179557593808936/781851090600591380/TITAN_Robotics.png\">\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TITAN-Contractors/TITAN-Robotics.git"
+  },
+  "author": "SDTheCyanWyan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/TITAN-Contractors/TITAN-Robotics/issues"
+  },
+  "homepage": "https://github.com/TITAN-Contractors/TITAN-Robotics#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.15.0"
+  }
+}

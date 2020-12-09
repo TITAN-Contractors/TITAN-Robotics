@@ -3,3 +3,4 @@ TITANContractors.code-workspace
 apinara.txt
 config.json
 ./node_modules
+.eslintrc.js

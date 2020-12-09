@@ -20,7 +20,9 @@
 </p>
 
 # TITAN Robotics
-Repository source for TITAN Zulu, our custom, self-maintained Discord bot.
+TITAN Zulu is a custom Discord bot created by TITAN Contractors *(CMDR RyanEastwood, aka SDTheCyanWyan)* in JavaScript. It will be designed to have many features for our community that are useful or pertain to Elite: Dangerous. Have suggestions? Feel free to head to our discussions or open an issue.
+
+If you think you can currently help us and have experience in JavaScript, contact me on Discord at Radium#7729 or speak to me on our Discord!
 
 **Features:**
 - No major features yet. 

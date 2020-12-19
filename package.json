@@ -1,6 +1,6 @@
 {
   "name": "@titan-contractors/titan-zulu",
-  "version": "0.2.4b",
+  "version": "0.2.4c",
   "description": "<p align=\"center\">\r   <img src=\"https://cdn.discordapp.com/attachments/755179557593808936/781851090600591380/TITAN_Robotics.png\">\r </p>",
   "main": "index.js",
   "scripts": {

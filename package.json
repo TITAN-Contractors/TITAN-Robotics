@@ -4,7 +4,7 @@
   "description": "<p align=\"center\">\r   <img src=\"https://cdn.discordapp.com/attachments/755179557593808936/781851090600591380/TITAN_Robotics.png\">\r </p>",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jest"
+    "test": "echo true"
   },
   "repository": {
     "type": "git",

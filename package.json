@@ -1,6 +1,6 @@
 {
-  "name": "titan-zulu",
-  "version": "0.2.4a",
+  "name": "@titan-contractors/titan-zulu",
+  "version": "0.2.4b",
   "description": "<p align=\"center\">\r   <img src=\"https://cdn.discordapp.com/attachments/755179557593808936/781851090600591380/TITAN_Robotics.png\">\r </p>",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
     "@typescript-eslint/eslint-plugin": "^4.9.0",
     "@typescript-eslint/parser": "^4.9.0",
     "eslint": "^7.15.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "titan-zulu",
-  "version": "1.0.0",
+  "version": "0.2.4a",
   "description": "<p align=\"center\">\r   <img src=\"https://cdn.discordapp.com/attachments/755179557593808936/781851090600591380/TITAN_Robotics.png\">\r </p>",
   "main": "index.js",
   "scripts": {

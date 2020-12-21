@@ -1,4 +1,4 @@
 {
-	"prefix": "BOT PREFIX",
+	"cmdprefix": "BOT PREFIX",
 	"token": "DISCORD API TOKEN"
 }
